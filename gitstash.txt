@@ -1,1 +1,2 @@
-stash is working
+stash is working efficiently
+
