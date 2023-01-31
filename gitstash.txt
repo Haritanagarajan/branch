@@ -1,2 +1,3 @@
-stash is working efficiently
+stash is working efficiently and output is retrieved
+
 
